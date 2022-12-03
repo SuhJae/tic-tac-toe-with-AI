@@ -2,6 +2,10 @@
 ### A terminal based tic-tac-toe game with AI only using python and random module.
 This project was made to understand recursive functions.
 
+<p align="left">
+  <img width="300" height="169" src="image/demo.png">
+</p>
+
 ## Requirements
 - Python 3.9 or above
 - Random module (Pre-installed with python)
