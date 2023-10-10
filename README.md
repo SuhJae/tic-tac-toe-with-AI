@@ -1,3 +1,6 @@
+### 📜 Archived Repository
+This archived repository offers a glimpse into the foundational steps of my programming journey.
+
 # tic-tac-toe-with-AI
 ### A terminal based tic-tac-toe game with AI only using python and random module.
 This project was made to understand recursive functions.
